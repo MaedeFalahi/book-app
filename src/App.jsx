@@ -1,7 +1,13 @@
+import Layout from "./layouts/Layout";
+
 function App() {
   return (
     <>
-      <h1>Book App Starting files</h1>
+
+      <Layout>
+        <h1>rr</h1>
+      </Layout>
+
     </>
   );
 }
